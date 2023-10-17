@@ -1,0 +1,12 @@
+@import '../../../config-scss/rem-calc.scss';
+
+:host{
+
+    .pokemon{
+        display: flex;
+        
+        background: var(--branco);
+        width: 49%;
+        border-radius: rem-calc(10);
+    }
+}
