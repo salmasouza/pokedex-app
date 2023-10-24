@@ -23,6 +23,7 @@ import { PokeListComponent } from './poke-list/poke-list.component';
   imports: [
     CommonModule,
     RouterModule,
+    
   ],
 
   
